@@ -1,5 +1,3 @@
----
-
 # Aula Prática – Do DER ao Banco de Dados no SQLite
 
 ## 🎯 Objetivo da aula
@@ -13,7 +11,6 @@ Cronograma da aula:
 * Consultar dados com **JOIN**
 * Entender como a **tabela lógica conecta tabelas físicas**
 
----
 
 # 1️⃣ Analisando o DER
 
@@ -259,7 +256,7 @@ ON Participar.codigo_projeto = Projeto.codigo;
 
 Agora conseguimos ver **dados das três tabelas ao mesmo tempo**.
 
----
+
 
 # 🔎 Conclusão da aula
 
@@ -277,5 +274,4 @@ Participar (tabela lógica)
 
 A tabela **Participar conecta as outras duas usando chaves estrangeiras**.
 
----
 
