@@ -260,8 +260,6 @@ Agora conseguimos ver **dados das três tabelas ao mesmo tempo**.
 
 # 🔎 Conclusão da aula
 
-O aluno aprende que:
-
 DER → Modelo Relacional → SQL
 
 Estrutura final:
